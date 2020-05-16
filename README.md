@@ -1,6 +1,8 @@
-# Experiments provides basic templates for working with GitHub, VS Code, and various Programming Languages
+# Experiments
 
-VS Code and GitHub Workflow:
+Description: provides basic templates for working with GitHub, VS Code, and various Programming Languages
+
+**VS Code and GitHub Workflow**
 1. Open GitHub Desktop
     1. Create a repository
     2. Click “Open in VS Code”
