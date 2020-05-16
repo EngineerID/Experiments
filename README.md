@@ -1,6 +1,6 @@
 # Experiments
 
-Description: provides basic templates for working with GitHub, VS Code, and various Programming Languages
+Description: provides basic templates and workflows for working with GitHub, VS Code, and various Programming Languages
 
 **VS Code and GitHub Workflow**
 1. Open GitHub Desktop
